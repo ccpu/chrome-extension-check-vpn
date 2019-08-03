@@ -102,7 +102,7 @@ export default class Popup extends React.Component<AppProps, AppState> {
         return (
             <div className="popupContainer">
                 <p>Domain List</p>
-                <small className="decryption">The domain names in the list must run with VPN only</small>
+                <small className="decryption">Add domain name and apply settings</small>
                 <hr />
                 <div className="list">
                     <div className="list-item list-title">

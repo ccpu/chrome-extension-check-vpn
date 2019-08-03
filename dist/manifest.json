@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Check VPN Status",
-    "description": "A boilerplate project to quickly build a Chrome extension using TypeScript and React (built using webpack).",
+    "description": "An extension to enforce the privacy",
     "version": "1.0.0",
     "browser_action": {
         "default_icon": "red16.png",
